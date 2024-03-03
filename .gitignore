@@ -23,6 +23,7 @@ output
 instant_test_output
 inference_test_output
 work_dirs
+exception
 
 # project dir
 one_peace_vision/det/datasets
